@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @sumirr
 
-Welcome to my GitHub profile! I'm a passionate Flutter developer with a BSc in Computer Science from UNISA, currently enhancing my knowledge on AWS. My development journey is fueled by my interest in crafting scalable and efficient applications using Flutter, Node.js, and Python.
+Welcome to my GitHub profile! I'm a passionate Flutter developer with a BSc in Computer Science from UNISA, currently enhancing my knowledge on AWS. My development journey is fueled by my interest in crafting scalable and efficient applications using Flutter, Python and now AWS!
 
 ## 👀 What I'm Focused On
 - AWS Cloud
